@@ -1,0 +1,25 @@
+{
+  "name": "estudando",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "core-js": "^3.29.1",
+    "css-loader": "^6.7.3",
+    "express": "^4.18.2",
+    "regenerator-runtime": "^0.13.11",
+    "style-loader": "^3.3.2",
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1"
+  },
+  "keywords": [],
+  "description": ""
+}
